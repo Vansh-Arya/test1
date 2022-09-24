@@ -7,8 +7,6 @@ export default function App() {
       Hello world
       My name is Vansh Arya
       I am a codeyogi
-      <h1>Doubt class is going on?</h1>
     </main>
-
   )
 }
